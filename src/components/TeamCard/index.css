@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-team-info {
+  display: flex;
+  flex-direction: row;
+  width: 45%;
+  margin-right: 2%;
+  height: 20%;
+  border: 1px solid grey;
+  border-radius: 10px;
+  align-items: center;
+  background-color: #475569;
+}
+
+.bg-link:hover {
+  text-decoration: none;
+  color: black;
+  word-wrap: keep-all;
+}
+
+.bg-link:visited {
+  text-decoration: none;
+  color: black;
+  word-wrap: keep-all;
+}
+
+.bg-link:active {
+  text-decoration: none;
+  color: black;
+  word-wrap: keep-all;
+}
+
+.bg-link:link {
+  text-decoration: none;
+  color: black;
+  word-wrap: keep-all;
+}
+.bg-team-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.team-logo {
+  height: 30%;
+  width: 15%;
+  margin-right: 10px;
+  margin-left: 5px;
+}
